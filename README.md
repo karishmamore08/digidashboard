@@ -1,1 +1,1 @@
-# digidashborad
+# digidashboard
